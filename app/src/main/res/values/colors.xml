@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="time_out_color">#ba160c</color>
+    <color name="time_remian_color">#2ECC71</color>
+    <color name="tv_bgc">#a4c639</color>
+    <color name="match_btn_bg">#F5B041</color>
+    <color name="operater_btn_bg">#6495ED</color>
+    <color name="tv_btn_border">#4588C0</color>
+    <color name="numbers_bg">#CCCCFF</color>
+    <color name="main_layout_bg">#EAEDED</color>
+    <color name="timer_lyut_bg">#D6EAF8</color>
+</resources>

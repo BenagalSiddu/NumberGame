@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">NumberGame</string>
+    <string name="success_msg">Good Job</string>
+    <string name="try_next">Try Next</string>
+    <string name="cancel">Cancel</string>
+    <string name="score">SCORE : </string>
+    <string name="time_out">TIME OUT</string>
+    <string name="time_in">TIME : </string>
+    <string name="empty_tv">00</string>
+    <string name="plus">plus</string>
+    <string name="minus">minus</string>
+    <string name="multiple">multiple</string>
+    <string name="match_num">Match Number</string>
+    <string name="one">ONE</string>
+    <string name="two">TWO</string>
+    <string name="three">THREE</string>
+    <string name="four">FOUR</string>
+    <string name="five">FIVE</string>
+    <string name="six">SIX</string>
+    <string name="seven">SEVEN</string>
+    <string name="eight">EIGHT</string>
+    <string name="nine">NINE</string>
+    <string name="ten">TEN</string>
+
+
+</resources>
